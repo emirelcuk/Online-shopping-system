@@ -1,0 +1,6 @@
+ABC10d gives 10
+ABC20d gives 20
+ABC25d gives 25
+ABC30d gives 30
+ABC40d gives 40
+ABC35d gives 35

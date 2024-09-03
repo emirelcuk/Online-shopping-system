@@ -1,0 +1,3 @@
+..\\SubCatigories\\Fashion
+..\\SubCatigories\\Mobiles
+..\\SubCatigories\\Perfumes

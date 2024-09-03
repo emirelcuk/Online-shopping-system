@@ -1,0 +1,7 @@
+Order Number: 0
+Order Date: Sun May 12 10:00:18 EEST 2024
+Items:
+Samsung x 1 - 1999.99 LE
+Total Price: 1999.99 LE
+Discount: 1999.99 LE
+Total Price After Discount: 0.0 LE
